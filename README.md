@@ -13,7 +13,7 @@ The data set comes from roboflow's [Hard Hat Workers Dataset](https://public.rob
 1. Follow [this link](https://code.visualstudio.com/Download) to download and install VS Code
 1. Follow [this link](https://www.anaconda.com/download) to download and install Anaconda
 1. Open your terminal and run the following command to create the conda environment for this project
-    1. `conda create -n hard_hat_detection`
+    1. `conda create -n hard_hat_detection python=3.12.4`
 1. Activate the conda environment
     1. `conda activate hard_hat_detection`
 1. Install the required packages
