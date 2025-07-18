@@ -18,6 +18,7 @@ The data set comes from roboflow's [Hard Hat Workers Dataset](https://public.rob
     1. `conda activate hard_hat_detection`
 1. Install the required packages
     1. `pip install -r requirements.txt`
+    1. `conda install pytorch torchvision -c pytorch`
 
 ### Run the Jupyter Notebook
 
