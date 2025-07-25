@@ -24,8 +24,8 @@ The data set comes from roboflow's [Hard Hat Workers Dataset](https://public.rob
 
 1. Open the [hard_hat_detection_yolo.ipynb](./hard_hat_detection_yolo.ipynb)
 1. Select the newly created conda environment as the kernel in VS Code
-    1. ![select kernel](./images/select_kernel_1.png)
-    1. ![select environment](./images/select_kernel_2.png)
+    1. ![select kernel](./assets/images/select_kernel_1.png)
+    1. ![select environment](./assets/images/select_kernel_2.png)
 1. Click on `Clear All Outputs` and then `Restart` to start a fresh run
 1. Click on `Run All` to run the entire notebook
-    1. ![run notebook](./images/run_notebook.png)
+    1. ![run notebook](./assets/images/run_notebook.png)
