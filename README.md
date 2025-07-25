@@ -1,6 +1,16 @@
 # CSCI611_Summer25_Final_Project
 
-Go to the [link](https://docs.google.com/document/d/1XkK2IiD0MSFE1cAAt-i77VEGJz4t3srLGbuQ16GiV7c/edit?usp=sharing) for project proposal.
+## Documents
+
+[Project Proposal](./assets/Final%20Project%20Propsal.docx)
+
+[Final Test Results](./assets/Hard%20Hat%20Detection%20Yolo%20Results.xlsx)
+
+[Final Report](./assets/Final%20Report.docx)
+
+[Final Presentation](./assets/Final%20Presentation.pptx)
+
+[Final Presentation Recording](./assets/Final%20Presentation%20Recording.mp4)
 
 ## Data Set
 
